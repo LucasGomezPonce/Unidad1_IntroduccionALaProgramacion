@@ -6,9 +6,7 @@ Modulo programador - Eje1 Python introduccion pagina 35, en pdf pagina 37
 4- Escribe un programa que pida al usuario su año de nacimiento, calcule su edad y genere un mensaje de saludo personalizado que incluya su nomvre y la edad calculada.
 """
 
-
 import math
-
 
 radio = int(input('Ingresa el radio de un circulo: '))
 
